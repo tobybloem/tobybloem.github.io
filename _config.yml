@@ -11,7 +11,7 @@ email: tobybloem@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Professional site for Software Engineer/Web Developer Toby Bloem
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tobybloem.com # the base hostname & protocol for your site
+url: "http://tobybloem.com" # the base hostname & protocol for your site
 twitter_username: TobyBloem
 github_username:  tobybloem
 
