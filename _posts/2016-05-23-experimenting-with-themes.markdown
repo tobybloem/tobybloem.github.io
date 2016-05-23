@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Experimenting With Different Themes"
-date:   2016-05-23 18:00:00 +1000
+date:   2016-05-22 18:00:00 +1000
 categories: themes
 ---
 I've started experimenting with different jekyll themes. This base one will probably stay the same for a while, but I'll put links up to
