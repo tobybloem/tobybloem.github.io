@@ -7,7 +7,7 @@
 
 # Site settings
 title: Toby Bloem
-email: tobybloem@gmail.com
+email: toby@tobybloem.com
 description: > # this means to ignore newlines until "baseurl:"
   Professional site for Software Engineer/Web Developer Toby Bloem
 baseurl: "" # the subpath of your site, e.g. /blog
